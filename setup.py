@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='RegressorProject',
+    name='linearRegressionHousePriceProject',
     version='0.0.1',
     author='Saurabh Maurya',
     author_email='saurabh08281997@gmail.com',
